@@ -24,11 +24,7 @@ Current focus:
 
 - Improve the top-level gas timing summary so non-technical users can understand current gas conditions faster.
 - Add clearer explanations for advanced metrics such as percentiles, buckets, outliers, and block utilization.
-- Improve mobile layout and chart readability.
 - Add more historical context for recurring gas patterns.
-- Improve backend refresh reliability and monitoring.
-- Reduce infrastructure cost and deployment time.
-- Add public status notes for data freshness and backend sync progress.
 
 ## Known Issues
 
@@ -45,8 +41,6 @@ Current focus:
 - Added `ETH Gas Now`, a quick gas timing summary card.
 - Added a visual separation between quick timing context and advanced gas analysis.
 - Added About page audience messaging.
-- Improved CORS settings for Vercel, LAN, and VPN access.
-- Added a frontend-only plain Docker deploy script.
 
 ## How Donations Will Be Used
 
@@ -73,11 +67,7 @@ Suggested screenshots:
 
 ## Contact
 
-For questions, bug reports, or support-related messages, please use GitHub Issues in the main project repository or contact the project maintainer.
-
-Main project repository:
-
-- https://github.com/pierogiDev/eth_gas_insight
+For questions, bug reports, or support-related messages, please use GitHub Issues in this repository or DM me on bluesky account(@eth-sky-flyer.bsky.social)
 
 ## GitHub Sponsors
 
