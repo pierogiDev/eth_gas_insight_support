@@ -57,14 +57,6 @@ Donations will be used to support:
 
 Screenshots will be added under [`screenshots/`](screenshots/).
 
-Suggested screenshots:
-
-- Gas page top summary.
-- Gas price trend chart.
-- Detailed gas analysis section.
-- Mobile view.
-- About page.
-
 ## Contact
 
 For questions, bug reports, or support-related messages, please use GitHub Issues in this repository or DM me on bluesky account(@eth-sky-flyer.bsky.social)
