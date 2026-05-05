@@ -15,9 +15,8 @@
 
 ## Mobile View
 - ETH Gas Now section at the top
-![ETH Gas Insight screenshot](<httpsethgasinsight.info.png>)
+<img src="httpsethgasinsight.info.png" alt="ETH Gas Insight screenshot" width="50%">
 
 - Example sections on mobile
-![ETH Gas Insight screenshot 2](<httpsethgasinsight.info 2.png>)
-
+<img src="httpsethgasinsight.info 2.png" alt="ETH Gas Insight screenshot 2" width="50%">
 
