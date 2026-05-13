@@ -36,6 +36,11 @@ Current focus:
 
 ## Changelog
 
+### 2026-05-13
+
+- Fixed Gas page charts that could appear empty: Trend extension path, Median gas heatmap, Block utilization heatmap, and Effective gas by transaction type.
+- Sped up historical data refresh and reduced backend memory usage by moving aggregation into ClickHouse.
+
 ### 2026-05-05
 
 - Added `ETH Gas Now`, a quick gas timing summary card.
